@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Maimansingha Gitika
+
+This log tracks the cryptographic history and versioning for the song **Maimansingha Gitika** (maimansingha-gitika).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-10T08:06:45.321852 | `v1` | `02d3bf7cae6475488387e93d9b6ac3c945bf4d85f7617edb70b8ec231cc561a3` | `c266835b4c61cfc89efa06ab67684da7395459654f85090bb1f59e0dd5ad2b45` | `2026-05-10_maimansingha-gitika-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
