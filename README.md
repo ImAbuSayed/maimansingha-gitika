@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/maimansingha-gitika/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Maimansingha Gitika](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/maimansingha-gitika/) |
+| **Get License** | [Official Music Licensing for Maimansingha Gitika](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/maimansingha-gitika/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অচিন দেশের মাতাল হাওয়া বুকে জাগায় তৃষ্ণা
+> আধো আলো আধো ছায়ায় মন মানে না সীমানা
+> রাতের গায়ে রূপকথারা আজ মেলেছে ডানা
+> গোপন মনের গভীর কোণে বাঁধ ভাঙার নিশানা
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
